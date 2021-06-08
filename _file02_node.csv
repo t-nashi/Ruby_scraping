@@ -1,0 +1,6 @@
+# サイト内のデータ取得対象の要素情報を記載（種類： content、text、inner_html）
+# 要素の指定はChromeの「DevTools > Elements > Copy > Copy full XPath」から作るのをオススメ
+[0]データ取得対象の大本となる要素： ,//section[1]/article
+└ [1]タイトル： ,.css('.post-title')[0].content
+└ [2]リンク： ,.css('a')[0]['href']
+└ [3]エラーテスト： ,.css('error')

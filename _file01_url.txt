@@ -1,0 +1,6 @@
+# スクレイピング対象サイトのURLを記載 ※複数個記載の場合、取得対象要素の構成は同じページであることが前提
+# 存在しないページでエラーテスト（/xxxxx）
+https://www.koreyome.com/
+https://www.koreyome.com/xxxxx
+https://www.koreyome.com/page/2/
+https://www.koreyome.com/page/3/
