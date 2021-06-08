@@ -1,0 +1,2 @@
+# Ruby_scraping
+対象のサイトURLや要素のxpathをtxtやcsvファイルで制御可能なスクレイピングサンプルプログラム
