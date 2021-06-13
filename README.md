@@ -27,10 +27,10 @@
 
 ## 使用プラグイン
 <table>
-	<tr>
-		<td><b>Nokogiri</b></td>
-		<td>Rubyでスクレイピングするときの定番ライブラリ</td>
-	</tr>
+  <tr>
+    <td><b>Nokogiri</b></td>
+    <td>Rubyでスクレイピングするときの定番ライブラリ</td>
+  </tr>
 </table>
 
 <br><br><br>
