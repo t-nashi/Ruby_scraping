@@ -29,7 +29,7 @@
 <table>
 	<tr>
 		<td><b>Nokogiri</b></td>
-		<td>xxxxx</td>
+		<td>Rubyでスクレイピングするときの定番ライブラリ</td>
 	</tr>
 </table>
 
